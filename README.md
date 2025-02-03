@@ -1,4 +1,5 @@
- ### ** ![User](https://img.shields.io/badge/Hamim-red?style=flat&logo=person) **
+ ### <img src="https://img.shields.io/badge/Hamim-red?style=flat&logo=person" width="150">
+
    
 🎓 ![Student](https://img.shields.io/badge/Student-United%20International%20University-orange)  
 💻 ![Passion](https://img.shields.io/badge/Passionate-Software%20Development%20%26%20Problem%20Solving-blue)  
