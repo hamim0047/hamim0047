@@ -1,10 +1,8 @@
  ### ![User](https://img.shields.io/badge/hamim2310047-blue?style=flat&logo=person)
-
-   🧑‍💻 **Hamim**
    
 🎓 ![Student](https://img.shields.io/badge/Student-United%20International%20University-orange)  
 💻 ![Passion](https://img.shields.io/badge/Passionate-Software%20Development%20%26%20Problem%20Solving-blue)  
-🚀 ![Exploring](https://img.shields.io/badge/Currently-Learning%20New%20Technologies-brightgreen)
+🚀 ![Exploring](https://img.shields.io/badge/Currently-Learning%20New%20Technologies-green)
  
 
 ### 👤 Profile View
