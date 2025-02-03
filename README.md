@@ -28,7 +28,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhammad.hamim.886006/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hamim-196466277/)
 
-###Profile View
+### 👤 Profile View
 
 ![Visitor Count](https://profile-counter.glitch.me/hamim2310047/count.svg)
 
