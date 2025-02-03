@@ -1,4 +1,4 @@
- **Hamim**
+   **Hamim**
 - 📖 2nd year student, at United International University
 - 👀 I’m interested in software development
 - 🌱 I’m currently exploring everything
