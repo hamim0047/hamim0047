@@ -1,10 +1,11 @@
  ### ![User](https://img.shields.io/badge/hamim2310047-blue?style=flat&logo=person)
 
-   🧑‍💻 ***Hamim***
+   🧑‍💻 **Hamim**
    
-🎓 **2nd Year Student** at *United International University*  
-💻 Passionate about **Software Development** & Problem-Solving  
-🚀 Currently **exploring new technologies** and expanding my skill set  
+🎓 ![Student](https://img.shields.io/badge/Student-United%20International%20University-blue)  
+💻 ![Passion](https://img.shields.io/badge/Passionate-Software%20Development%20%26%20Problem%20Solving-orange)  
+🚀 ![Exploring](https://img.shields.io/badge/Currently-Learning%20New%20Technologies-brightgreen)
+ 
 
 ### 👤 Profile View
 
