@@ -1,5 +1,4 @@
- ### 🧑‍💻
- ![User](https://img.shields.io/badge/User-Profile-blue?style=flat&logo=person)
+ ### ![User](https://img.shields.io/badge/User-Profile-blue?style=flat&logo=person)
 
    ***Hamim***
    
