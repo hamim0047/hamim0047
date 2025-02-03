@@ -1,4 +1,4 @@
- ### <img src="https://img.shields.io/badge/Hamim-red?style=flat&logo=person" width="100">
+ ### <img src="https://img.shields.io/badge/Hamim-red?style=flat&logo=person" width="60">
 
    
 🎓 ![Student](https://img.shields.io/badge/Student-United%20International%20University-orange)  
