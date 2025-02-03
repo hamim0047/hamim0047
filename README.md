@@ -1,5 +1,6 @@
- ### 👤
- 
+ ### 🧑‍💻
+ ![User](https://img.shields.io/badge/User-Profile-blue?style=flat&logo=person)
+
    ***Hamim***
    
 🎓 **2nd Year Student** at *United International University*  
