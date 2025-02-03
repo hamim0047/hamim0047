@@ -6,8 +6,11 @@
 💻 Passionate about **Software Development** & Problem-Solving  
 🚀 Currently **exploring new technologies** and expanding my skill set  
 
+### 👤 Profile View
 
-  ### 🖥️
+![Visitor Count](https://profile-counter.glitch.me/hamim2310047/count.svg)
+
+ ### 🖥️ Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -28,9 +31,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhammad.hamim.886006/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hamim-196466277/)
 
-### 👤 Profile View
-
-![Visitor Count](https://profile-counter.glitch.me/hamim2310047/count.svg)
 
 
 <!---
