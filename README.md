@@ -1,7 +1,8 @@
-   **Hamim**
-- 📖 2nd year student, at United International University
-- 👀 I’m interested in software development
-- 🌱 I’m currently exploring everything
+   ***Hamim***
+🎓 **2nd Year Student** at *United International University*  
+💻 Passionate about **Software Development** & Problem-Solving  
+🚀 Currently **exploring new technologies** and expanding my skill set  
+
 
   ### 🖥️
 
