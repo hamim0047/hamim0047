@@ -1,6 +1,6 @@
  ### ![User](https://img.shields.io/badge/hamim2310047-blue?style=flat&logo=person)
 
-   ***Hamim***
+   🧑‍💻 ***Hamim***
    
 🎓 **2nd Year Student** at *United International University*  
 💻 Passionate about **Software Development** & Problem-Solving  
@@ -19,6 +19,7 @@
 
 
 ### 📊 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamim2310047&layout=compact)
 
 ### 🌐 Connect
@@ -28,6 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hamim-196466277/)
 
 ###Profile View
+
 ![Visitor Count](https://profile-counter.glitch.me/hamim2310047/count.svg)
 
 
