@@ -1,4 +1,4 @@
- ### <img src="https://img.shields.io/badge/Hamim-blue?style=flat&logo=person" width="80">
+ ## <img src="https://img.shields.io/badge/Hamim-blue?style=flat&logo=person" width="80">
 
    
 🎓 ![Student](https://img.shields.io/badge/Student-United%20International%20University-orange)  
@@ -6,7 +6,7 @@
 🚀 ![Exploring](https://img.shields.io/badge/Currently-Learning%20New%20Technologies-deepgreen)
  
 
-### 👤 Profile View
+## 👤 Profile View
 
 ![Visitor Count](https://profile-counter.glitch.me/hamim2310047/count.svg)
 
@@ -39,14 +39,14 @@
 
 
 
-### 📊 Stats
+## 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamim2310047&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamim0047&show_icons=true&theme=radical)
 
 
-### 🌐 Connect
+## 🌐 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamim2310047@bscse.uiu.ac.bd)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhammad.hamim.886006/)
