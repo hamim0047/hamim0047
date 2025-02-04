@@ -25,7 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamim2310047&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamim0047&theme=radical)
 
 ### 🌐 Connect
 
