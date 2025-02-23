@@ -25,7 +25,7 @@
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamim2310047&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamim0047&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamim0047&show_icons=true&theme=radical)
 
