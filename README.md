@@ -8,8 +8,9 @@
 
 ## 👤 Profile View
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hamim0047&color=blue&label=Visitors&style=flat-square)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hamim0047&label=👀+Visitors+Since+Launch&color=ff69b4&style=for-the-badge" alt="hamim0047" />
+</p>
 
 ## 🖥️ Tech Stack
 
