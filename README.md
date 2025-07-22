@@ -8,7 +8,7 @@
 
 ## 👤 Profile View
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamim0047&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=hamim0047&style=plastic)
 
 
 ## 🖥️ Tech Stack
